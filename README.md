@@ -61,10 +61,6 @@ Contributions are welcome! Please open an issue or submit a pull request for imp
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a pull request
 
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
 ## Contact
 
 For questions or feedback, please create an issue or contact [vexedstupidity](https://github.com/vexedstupidity).
